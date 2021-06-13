@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oop_lab3.iml" filepath="$PROJECT_DIR$/oop_lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/oop_lab3.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/oop_lab3.desktop.test.iml" />
+    </modules>
+  </component>
+</project>
